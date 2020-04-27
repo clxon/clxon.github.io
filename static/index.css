@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+}
+
+div.titlebar {
+    height: 2em;
+}
+
+a.t:link,a.t:visited {
+    font-size: larger;
+    margin: 0.5em;
+    /* width: 4.5em; */
+    text-decoration: none;
+    color: black;
+}
+a.t:hover,a.t:active {
+    text-decoration: underline;
+}
+
+span.code {
+    background-color: gray;
+    border: 5px soild black;
+}
